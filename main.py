@@ -7,3 +7,5 @@ bible = (bible.replace("Jesus","Cheesus"))
 bible = (bible.replace("God", "Gouda"))
 
 print(bible)
+
+#with help from aiden
